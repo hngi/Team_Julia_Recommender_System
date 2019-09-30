@@ -1,0 +1,457 @@
+"id","post_id","parent_comment_id","comment","sender_id","user_id","status","action","type","created_at","updated_at","id","user_id","title","content","tags","slug","created_at","updated_at","image","status_id","action","post_id"
+"11","143",NULL,"I have learnt how to publish an article and How to use Doc and to create a blog","2191","2191","0","Commented","Post","2019-08-26 18:44:23","2019-08-26 18:44:23","143","2191","What you have learned so far","1.  I have learnt how to publish and article, How to use Doc and How to create a blog",NULL,"what-you-have-learned-so-far-3d6","2019-08-26 08:06:03","2019-08-28 11:30:06",NULL,NULL,NULL,NULL
+"7","278",NULL,"Hey bro!","1","4","1","Commented","Post","2019-08-26 15:13:17","2019-08-26 15:13:25","278","4","Good Afternoon People","Hey",NULL,"good-afternoon-people-288","2019-08-26 15:10:44","2019-08-28 11:30:12",NULL,NULL,NULL,NULL
+"155","353",NULL,NULL,"1","7","0","Love","Reaction","2019-08-31 18:21:24","2019-08-31 18:21:24","353","7","TWO YEARS IN THE TRENCHES BUILDING HOTELS.NG","Hotels.ng is about two years old now. In the first year, it was just a website — no business built around it. It started off by me purchasing lists of hotels. The entirety of hotels that were available in any known dataset that was available in public or in any government archive was about 1500 in Nigeria. I listed them all on the site and put the site up. Only 100 of those hotels had pictures. The pictures were scraped from the hotel websites.
+
+In October 2012 I moved to Nigeria to try to build a business out of this hotel booking website. I landed, rented a flat in calabar and convinced a friend of mine, Charles, to join the project. I and Charles hit the streets of Calabar and started snapping photos of the hotels in Calabar. Soon we had the largest online list of hotels in Calabar. But none were yet bookable.
+
+We coded a booking form one day and bought a company phone. We turned on the booking form and put the phone number on the site. We received 20 bookings for hotels in various parts of Nigeria that day, and had 100 missed calls on the phone. We could not book the hotels yet and we barely had time to address all the queries we received, so we took the number back off. We kept the booking form, but nothing would happen when people booked.
+
+Some time later, Jason Njoku wrote me a message on Facebook that he was starting an investment company called Spark and that he wanted to invest in Hotels.ng. I went to Lagos, we had a 30 minute meeting on a hot balcony together with Bastian, then I returned to Calabar. The next day, they made an offer. A bit of negotiation and in January 2013 Hotels.ng received funds from Spark.
+
+In the last 1 year, I used the investment money to build Hotels.ng into a company. We have 15 full-time staff, 5 contract staff and more than 70 ad-hoc staff. Those 70 people went everywhere in Nigeria and got hotels on our site. We now have 5080 hotels on the site. We have full pictures for 4000+ of all those hotels. We have addresses and driving instructions for all these hotels — we have massively accelerated the move of an African industry online.
+
+The total value of the bookings that we have done for hotels in Nigeria on our website alone is currently 2.3 million USD. That value was generated without spending any money marketing the site. By its very existence, it is useful and people patronize it without us needing to tell them to use it.
+
+By the end of the year 2013 we hit $40k in monthly revenue. I will follow up this post with other posts detailing how the process has been.
+
+How has it been building a tech startup in Nigeria? Everyone always on the outside tries to show how their startup is doing awesome and taking over the market and all what not, but that’s not how it is on the inside.
+
+The past two years have been like climbing a mountain — blindfolded. To do what we are doing, there is no roadmap. There is no book teaching how to create something that has never existed in this market before. So it was all experiments and trial-and-error. I never knew what would work and what would not, so we would need to spend to test out different things to find what seems to work good. And even when you find something that works, you need growth, so you need to find what works even better.
+
+From composing the teams, deciding how to approach hotels, getting people across 36 states in Nigeria, figuring out how to book hotel rooms with hotels without internet, and even the small stuff like getting our own internet working, it has all been a journey of uncertainty.
+
+### **GETTING STARTED WITH $50K**
+
+Our initial raise was $75k, of which $25k went to buy a car (to close deals in Lagos). So we had $50k to deploy people across Nigeria and pay a team of 12 people. That’s N8 million. At the time, I though that it would be more than enough. But quickly I realised that things were far more expensive than you think they are. If you have N8mill for 6 months, you have about 1.3m per month. Salaries will take half that money. Developer will take a big chunk. Data purchase another big chunk. The money will finish very rapidly.
+
+So we had to do another raise with Spark, this time $150k. In the first 6 months, the sheer amount of things that needed to be set up and built meant that it would have been very hard to build the neccessary relationships to raise any kind of investment from other parties.
+
+My take-away from the initial raising money is this: If you are going to raise money for something complicated, make sure the money will last at least 1 year. You will need 6 months to build a lot of the processes and start generating revenue and another 6 months to build the relationships you need close your next round.
+
+### **THE INITIAL BUILDING PROCESS**
+
+When we first started, I had no idea how to build a team. I had never been in any kind of managerial position with more than 4 people. Initially, we had the system where everything was being controlled by me. After some wise advice from Victor Asemota, I split up into smaller units with team leaders. This was far more efficient and resulted in better performance.
+
+Jason and Bastian were very helpful in this phase — they had far more experience than I in managing and hiring, and looking around at what was going on and discussing things with them helped clarify a lot of what the approach should be. Jason told me one of the other useful things I learnt, which is that a low performer in one field can become a high performer if you swap their job roles. So (forgive me for this, co-workers), a lot of the initial stages was me moving people around till I could find a good person/job-fit.
+
+During this period, we had to figure out how to make things work. Now it seems so obvious in retrospect how to book hotels, but back then I genuinely did not know. I did not know how to fulfill a booking efficiently, how to approach the hotels to strike a commission deal and how to invoice the hotels in a way that would ensure that they paid us.
+
+And most importantly, how do you do this across 4000+ hotels without getting confused with the amount of info you are dealing with? The first 6 months was just about building the processes, building the software systems we needed to manage this, figuring out how to field deploy people, etc.
+
+The key take-aways from this period to me is: The things you do internally, they may seem super easy when you have figured them out, but they are not easy to discover. You cannot copy a company from the outside. Also, very importantly, a word is enough for the wise! When you have a problem, someone with far more experience can tell you just one word and it will make things suddenly fall into place. Talk to people who have more experience than you in the things you are doing!
+
+After the first 6 months of furiously building Hotels.ng, things started running on their own. I was no longer an essential part of the process. So I took a 2 week holiday in Germany. That holiday was super-useful in discovering the parts of my process that were not working well and still needed me. I advice everyone to disconnect from the company for two weeks and observe how well it runs independent of you. If it requires you to be there, then it is not a scalable business.
+
+So the day I came back, a tech founder friend of mine called me and said he had to tell me something important. I asked him what he was. He paused, then said: Rocket Internet are building a hotel booking website. It’s just like yours.
+
+Rocket Internet. The guys with five hundred million dollars. Coming up against me. I had barely $70,000. I started sweating.
+
+I had actually pitched those guys a while back to open a hotel booking website in Nigeria. I searched my email for the pitch-deck to see if it gave away anything. Reading that document made me realize how different assumptions about a business are from when you actually start the business. That would not help them.
+
+How do we beat Rocket Internet? They had everything. Over the following week, I kept thinking about that. But then I noticed something — they kept studying us, trying to find out how we did it. They were trying to beat US.
+
+That’s when I realised that somehow or the other, barely knowing it, we had become the largest hotel booking website in West Africa. So I didn’t have to beat Rocket Internet, they had to beat me.
+
+If you think of it in battle terms, at this point we have two armies, both moving in darkness, trying to get as fast as possible to a particular location. The battle has not started. We were in the deployment phase, and we were far ahead.
+
+So far, we had moved much faster than them. We had done smart things. Even when they started moving, we were accelerating faster than them by any metric you could count. And at a fraction of what they spent. Our total budget of our 20 man team was not up to the annual salary of their MD alone.
+
+So on reflection, I understood how we could beat them. In this movement phase, I will always be faster because they have so far not demonstrated any ability to outsmart us. At some point in the future, both sides would have arrived and it’s time to start the actual battle (which involves having the site the customers prefer to use). A lot of that is based on your ability to market wisely and to build a product that delights customers so much that they market it for you. In both of those aspects, if this were something that more money means you must automatically win, then there would be no instagram or snapchat.
+
+I don’t know what the future will bring, but I know that the team we have at Hotels.ng is good enough to win, even against a deep pocket competitor like Rocket. They have been around for 6 months now, and barely dented our number 1 position. The way we move will make it stay that way.
+
+### **THE HASSLES**
+
+When you are doing something that is changing the way an old and established market like the hotel industry in Nigeria is, with a lot of old rich men involved, you will face a lot of people who do not understand what you are trying to do.
+
+We have faced a lot of hassles from different sectors — from the troubles our inventory guys face to the banks not understanding our business to the police trying to find out more about what we do, to our cars getting arrested.
+
+This is Nigeria. This is Africa. This is normal. My advice: Have backup, have friends in high places, because if you truly disrupt, you will need their help to solve problems.
+
+The reason so many foreign companies came to Africa and left again is that they could not deal with the problems. You have to know that there will be major problems, and you just solve them and keep going, without ever being distracted from the mission and vision.
+
+### **FIRING PEOPLE**
+
+It’s not easy to work with someone in close proximity for many months and then fire them. But the role of the CEO of a company is that of a care-taker of a company. You are there to do the best for the company. If a person genuinely cannot contribute to a company, a CEO is obliged to lay the person off.
+
+I think it is better to just maintain a high standard when hiring and fire fast if you must fire. Because we are all humans and all kind — when you know someone well, you may be hesitant to do what’s best for the company because of pity.
+
+### **THE TECH SCENE**
+
+What we are building is not in isolation, it’s in the middle of the tech scene. This scene has been invaluable for the company and for me. I have never been a big fan of Lagos, but the fact of the matter is that this is where Nigerian tech is going to be. It will cluster in Lagos and likely in Yaba area.
+
+Since coming to Lagos, I have met a large number of the “twitter famous” people. Each of those people have straight-up provided me with ideas or information. And those words really made a difference.
+
+I strongly believe that technology is so complex and wide that without being in a community, it can never really take fruit and become something significant in the countries economy. One person discovers something, tells someone else. And the second person can use that info and connect it to solve a problem with his business.
+
+The Nigerian tech community is small, but it is helpful. It needs to grow so that we can build a real technology industry here in the biggest African country. The success of technology in Nigeria will determine the success of technology across the rest of Africa, and in my opinion, I think any continent that is left behind in technology industry will forever fall behind in the global economy.
+
+These small apps and websites we are creating now are important for this continent. They have the ability to change and transform it. They are what will create the future industries. So no matter what, we must never stop trying to build a local technology eco-system.
+
+### **FINAL WORDS**
+
+Building Hotels.ng has been hard. But it’s worth it to look at the site/business and see it working. See people booking hotels every day and it all somehow keeps running. All of this was done with the help of a larger technology eco-system, people who were willing to risk capital and the persistence and hard work of the team.
+
+It’s been a good two years. Looking forward to the next two!",NULL,"two-years-in-the-trenches-building-hotelsng-8e2","2019-08-26 17:54:56","2019-08-28 11:30:16",NULL,NULL,NULL,NULL
+"154","355",NULL,NULL,"1","7","0","Like","Reaction","2019-08-31 18:21:21","2019-08-31 18:21:21","355","7","HOW TO AVOID BEING A ONE-HIT WONDER","Most people, at some point, have a hit. Some hit blog post, some hit song, some hit startup, some great party and so on. But then that’s it. They try again, but it just doesn’t work the second time around. They try to do things exactly the same way, but it just does not work. Why is this? Why do some people have consistent hits and keep growing and getting better, while others just have one hit that they can never reproduce?
+
+**THE FUNDAMENTALS**
+--------------------
+
+Think of some guy cooking dinner. He goes crazy, throwing various ingredients in the pot, roasting the meat on an open flame, flinging whatever he finds in the fridge into the pan, and randomly selects some red wine from the shop.
+
+He invites his friends for dinner, and they are astounded. The meal is perfect – the meat is just right, the wine works perfectly, the soups are just perfectly flavored.
+
+That guy just landed a hit. But it’s a hit he cannot reproduce. He does not know why that meal was so good, because he was just throwing things into the pot. He got lucky with a bit of intuition and some luck. Give him different ingredients, a different stove and he will make a terrible meal.
+
+Contrast that with a professional cook. He can consistently give you a good meal, independent of what he has available to him. Sometimes, even the pro will make a dud, but most of the time, it will turn out right.
+
+The core difference between them is simply that the professional cook has a good knowledge of the fundamentals. He has studied the theory behind what he is doing, or he has a huge wealth of experience. He knows how to sear meat, he knows the correct spices to mix with a particular dish. So what the other guy did by chance, he can consistently do.
+
+Most one-hit wonders just don’t have the fundamentals. They work based on instinct and even though it may guide them to make a single hit, they will not understand how that hit came about. A person who has studied the fundamentals will see the hit like an insight that has opened new opportunities to him – he will recognize new things, but the other person will take nothing new from the experience.
+
+**THE SOCIAL NETWORK**
+----------------------
+
+The world is filled with a bunch of extremely smart people. And these people don’t want anything to do with you. They don’t have the time to talk to any guy off the street. But when you have your hit, they will all want to talk to you. For a while.
+
+The person who wants to make more than a single hit has to grasp this opportunity to force his way into the midst of this society. Because these very smart people are what will make your next hit.
+
+You can’t keep repeating one thing that worked. It gets boring. You can’t sing the same song twice and expect it to be another hit. You can’t keep cooking the same dish. You can’t keep making the same website. You will need to make something new. And your new social network are what will make that second hit for you.
+
+It’s like Lady Gaga trying to have a hit record. Hundreds of songwriters want her to sing their song. It’s easy for her to land another hit, because all the best producers will want to work with her. Her album has taken her into a new social network that she can now leverage to keep her fame high.
+
+Some people, after landing their hit, don’t attempt to get to know the important people in the new social network. They remain at the same social level that they were at. That means they have to recreate a new hit all over again. That’s very difficult.
+
+**THE HIT FACTORY**
+-------------------
+
+The person who makes hit after hit does so by a combination of two factors – he has the necessary knowledge about the fundamentals, and when he lands that hit that makes him visible, he leverages the new social network this opens to him. He uses the newly available brainpower to him to make the next hit.",NULL,"how-to-avoid-being-a-one-hit-wonder-e90","2019-08-26 17:57:20","2019-08-28 11:30:16",NULL,NULL,NULL,NULL
+"156","355","154","Nice","1","1","1","Replied","Post","2019-08-31 18:21:51","2019-09-07 15:44:46","355","7","HOW TO AVOID BEING A ONE-HIT WONDER","Most people, at some point, have a hit. Some hit blog post, some hit song, some hit startup, some great party and so on. But then that’s it. They try again, but it just doesn’t work the second time around. They try to do things exactly the same way, but it just does not work. Why is this? Why do some people have consistent hits and keep growing and getting better, while others just have one hit that they can never reproduce?
+
+**THE FUNDAMENTALS**
+--------------------
+
+Think of some guy cooking dinner. He goes crazy, throwing various ingredients in the pot, roasting the meat on an open flame, flinging whatever he finds in the fridge into the pan, and randomly selects some red wine from the shop.
+
+He invites his friends for dinner, and they are astounded. The meal is perfect – the meat is just right, the wine works perfectly, the soups are just perfectly flavored.
+
+That guy just landed a hit. But it’s a hit he cannot reproduce. He does not know why that meal was so good, because he was just throwing things into the pot. He got lucky with a bit of intuition and some luck. Give him different ingredients, a different stove and he will make a terrible meal.
+
+Contrast that with a professional cook. He can consistently give you a good meal, independent of what he has available to him. Sometimes, even the pro will make a dud, but most of the time, it will turn out right.
+
+The core difference between them is simply that the professional cook has a good knowledge of the fundamentals. He has studied the theory behind what he is doing, or he has a huge wealth of experience. He knows how to sear meat, he knows the correct spices to mix with a particular dish. So what the other guy did by chance, he can consistently do.
+
+Most one-hit wonders just don’t have the fundamentals. They work based on instinct and even though it may guide them to make a single hit, they will not understand how that hit came about. A person who has studied the fundamentals will see the hit like an insight that has opened new opportunities to him – he will recognize new things, but the other person will take nothing new from the experience.
+
+**THE SOCIAL NETWORK**
+----------------------
+
+The world is filled with a bunch of extremely smart people. And these people don’t want anything to do with you. They don’t have the time to talk to any guy off the street. But when you have your hit, they will all want to talk to you. For a while.
+
+The person who wants to make more than a single hit has to grasp this opportunity to force his way into the midst of this society. Because these very smart people are what will make your next hit.
+
+You can’t keep repeating one thing that worked. It gets boring. You can’t sing the same song twice and expect it to be another hit. You can’t keep cooking the same dish. You can’t keep making the same website. You will need to make something new. And your new social network are what will make that second hit for you.
+
+It’s like Lady Gaga trying to have a hit record. Hundreds of songwriters want her to sing their song. It’s easy for her to land another hit, because all the best producers will want to work with her. Her album has taken her into a new social network that she can now leverage to keep her fame high.
+
+Some people, after landing their hit, don’t attempt to get to know the important people in the new social network. They remain at the same social level that they were at. That means they have to recreate a new hit all over again. That’s very difficult.
+
+**THE HIT FACTORY**
+-------------------
+
+The person who makes hit after hit does so by a combination of two factors – he has the necessary knowledge about the fundamentals, and when he lands that hit that makes him visible, he leverages the new social network this opens to him. He uses the newly available brainpower to him to make the next hit.",NULL,"how-to-avoid-being-a-one-hit-wonder-e90","2019-08-26 17:57:20","2019-08-28 11:30:16",NULL,NULL,NULL,NULL
+"8","360",NULL,"This is an interesting write-up. I have a question though, in the quest to create solutions that saves time for people, you end up spending quite a fair of time. Also, sometimes it might not really be worth it. What metric can be used to determine how to balance this appropriately?","3","7","1","Commented","Post","2019-08-26 18:10:20","2019-08-26 18:20:28","360","7","EVALUATING STARTUP IDEAS","The only true currency we humans have is time. Everybody is given a pot of time when they are born, and every day they take out a little from it. One dreaded day, the pot is empty.
+
+People will pay money to have a little more of that precious time. So many modern fortunes have been made with products that save people time, like the automobile or the telephone.
+
+The best way to evaluate the value of a startup is by looking at the value of the time it saves. If it costs $100/hour to produce a screwdriver, and you are able to save 2 hours of that time with a product of yours, then every reasonable company would pay at least $100 to purchase that product.
+
+That is the essence of many software business. Save a business or person some time, so they can go make more money. The value of the time you save is basically the value you can extract for that business.
+
+![Evaluation Framework](https://markessien.com/content/images/2015/11/0-50Gvmue3SqekS13M.png)
+
+The chart above demonstrates this. You can calculate the value your startup creates by filling in the numbers for the chart.
+
+For example, lets look at the chart for the invention of the car. The car significantly increased the speed at which travel could be done. It also did this for something that was done very often (travel) and done by basically everyone. So the value generated by the car was huge.",NULL,"evaluating-startup-ideas-82a","2019-08-26 18:00:58","2019-08-28 11:30:16",NULL,NULL,NULL,NULL
+"9","360",NULL,"A nice write up","4","7","1","Commented","Post","2019-08-26 18:13:14","2019-08-26 18:20:28","360","7","EVALUATING STARTUP IDEAS","The only true currency we humans have is time. Everybody is given a pot of time when they are born, and every day they take out a little from it. One dreaded day, the pot is empty.
+
+People will pay money to have a little more of that precious time. So many modern fortunes have been made with products that save people time, like the automobile or the telephone.
+
+The best way to evaluate the value of a startup is by looking at the value of the time it saves. If it costs $100/hour to produce a screwdriver, and you are able to save 2 hours of that time with a product of yours, then every reasonable company would pay at least $100 to purchase that product.
+
+That is the essence of many software business. Save a business or person some time, so they can go make more money. The value of the time you save is basically the value you can extract for that business.
+
+![Evaluation Framework](https://markessien.com/content/images/2015/11/0-50Gvmue3SqekS13M.png)
+
+The chart above demonstrates this. You can calculate the value your startup creates by filling in the numbers for the chart.
+
+For example, lets look at the chart for the invention of the car. The car significantly increased the speed at which travel could be done. It also did this for something that was done very often (travel) and done by basically everyone. So the value generated by the car was huge.",NULL,"evaluating-startup-ideas-82a","2019-08-26 18:00:58","2019-08-28 11:30:16",NULL,NULL,NULL,NULL
+"144","360","8","yh","4","3","1","Replied","Post","2019-08-27 16:32:51","2019-08-29 13:40:03","360","7","EVALUATING STARTUP IDEAS","The only true currency we humans have is time. Everybody is given a pot of time when they are born, and every day they take out a little from it. One dreaded day, the pot is empty.
+
+People will pay money to have a little more of that precious time. So many modern fortunes have been made with products that save people time, like the automobile or the telephone.
+
+The best way to evaluate the value of a startup is by looking at the value of the time it saves. If it costs $100/hour to produce a screwdriver, and you are able to save 2 hours of that time with a product of yours, then every reasonable company would pay at least $100 to purchase that product.
+
+That is the essence of many software business. Save a business or person some time, so they can go make more money. The value of the time you save is basically the value you can extract for that business.
+
+![Evaluation Framework](https://markessien.com/content/images/2015/11/0-50Gvmue3SqekS13M.png)
+
+The chart above demonstrates this. You can calculate the value your startup creates by filling in the numbers for the chart.
+
+For example, lets look at the chart for the invention of the car. The car significantly increased the speed at which travel could be done. It also did this for something that was done very often (travel) and done by basically everyone. So the value generated by the car was huge.",NULL,"evaluating-startup-ideas-82a","2019-08-26 18:00:58","2019-08-28 11:30:16",NULL,NULL,NULL,NULL
+"12","371",NULL,"That's awesome","9","3","1","Commented","Post","2019-08-26 19:15:45","2019-08-27 11:15:03","371","3","Lucid is back","We have taken time to work on a lot of issues listed by our users. Although Lucid is still very much a work in progress, we've implemented a lot of sought after features, including the ability to edit and delete posts. This was a priority feature for us as customer demand for this was off the charts.
+
+  
+
+We hope you enjoy the new Lucid. We will continue working to implement requested features",NULL,"lucid-is-back-dc3","2019-08-26 18:06:59","2019-08-28 11:30:17",NULL,NULL,NULL,NULL
+"15","371",NULL,"wait, this works?","6","3","1","Commented","Post","2019-08-26 21:09:39","2019-08-27 11:15:03","371","3","Lucid is back","We have taken time to work on a lot of issues listed by our users. Although Lucid is still very much a work in progress, we've implemented a lot of sought after features, including the ability to edit and delete posts. This was a priority feature for us as customer demand for this was off the charts.
+
+  
+
+We hope you enjoy the new Lucid. We will continue working to implement requested features",NULL,"lucid-is-back-dc3","2019-08-26 18:06:59","2019-08-28 11:30:17",NULL,NULL,NULL,NULL
+"16","371",NULL,"uhm... not really...","6","3","1","Commented","Post","2019-08-26 21:09:58","2019-08-27 11:15:03","371","3","Lucid is back","We have taken time to work on a lot of issues listed by our users. Although Lucid is still very much a work in progress, we've implemented a lot of sought after features, including the ability to edit and delete posts. This was a priority feature for us as customer demand for this was off the charts.
+
+  
+
+We hope you enjoy the new Lucid. We will continue working to implement requested features",NULL,"lucid-is-back-dc3","2019-08-26 18:06:59","2019-08-28 11:30:17",NULL,NULL,NULL,NULL
+"26","371",NULL,"But my posts are nowhere to be found. Excellent work boss... Kudos!!","489","3","1","Commented","Post","2019-08-26 21:41:27","2019-08-27 11:15:03","371","3","Lucid is back","We have taken time to work on a lot of issues listed by our users. Although Lucid is still very much a work in progress, we've implemented a lot of sought after features, including the ability to edit and delete posts. This was a priority feature for us as customer demand for this was off the charts.
+
+  
+
+We hope you enjoy the new Lucid. We will continue working to implement requested features",NULL,"lucid-is-back-dc3","2019-08-26 18:06:59","2019-08-28 11:30:17",NULL,NULL,NULL,NULL
+"34","371",NULL,"Yay, a comment section too. Nice job","550","3","1","Commented","Post","2019-08-26 23:55:17","2019-08-27 11:15:03","371","3","Lucid is back","We have taken time to work on a lot of issues listed by our users. Although Lucid is still very much a work in progress, we've implemented a lot of sought after features, including the ability to edit and delete posts. This was a priority feature for us as customer demand for this was off the charts.
+
+  
+
+We hope you enjoy the new Lucid. We will continue working to implement requested features",NULL,"lucid-is-back-dc3","2019-08-26 18:06:59","2019-08-28 11:30:17",NULL,NULL,NULL,NULL
+"80","371",NULL,"Good to see the comment section","352","3","1","Commented","Post","2019-08-27 09:43:48","2019-08-27 11:15:03","371","3","Lucid is back","We have taken time to work on a lot of issues listed by our users. Although Lucid is still very much a work in progress, we've implemented a lot of sought after features, including the ability to edit and delete posts. This was a priority feature for us as customer demand for this was off the charts.
+
+  
+
+We hope you enjoy the new Lucid. We will continue working to implement requested features",NULL,"lucid-is-back-dc3","2019-08-26 18:06:59","2019-08-28 11:30:17",NULL,NULL,NULL,NULL
+"119","375",NULL,"Great","352","3","1","Commented","Post","2019-08-27 10:54:36","2019-08-27 11:15:03","375","3","My Internship Journey So Far","<h2>The Journey</h2>
+<p>My journey so has been much like a roller-coaster kind of feeling. But, let me tell you how it all started. So after registering for the internship, I did not get a welcome notification email immediately and that really made me think that I was not accepted...","Technology, News-Lifestyle, #HNG, #startdotng, #interns","my-internship-journey-so-far-5a8","2019-08-26 18:31:51","2019-08-28 11:30:17",,NULL,NULL,NULL
+"38","439",NULL,"Can't wait...wish notification is up and running by then. Keeping tab.","1340","6","1","Commented","Post","2019-08-27 01:23:31","2019-08-27 09:23:47","439","6","CEO -- Story so Far","I will use Lucid as my diary on my new appointment as CEO of HNG Tech (HNG Internship and Start.ng), i already have a lot to say... but it might be too soon... so, i'll wait a bit longer. Follow me to get the story as it drops!",NULL,"ceo-story-so-far-bc5","2019-08-26 21:38:36","2019-08-28 11:30:20",NULL,NULL,NULL,NULL
+"132","439",NULL,"Congrats","4","6","0","Commented","Post","2019-08-27 13:23:55","2019-08-27 13:23:55","439","6","CEO -- Story so Far","I will use Lucid as my diary on my new appointment as CEO of HNG Tech (HNG Internship and Start.ng), i already have a lot to say... but it might be too soon... so, i'll wait a bit longer. Follow me to get the story as it drops!",NULL,"ceo-story-so-far-bc5","2019-08-26 21:38:36","2019-08-28 11:30:20",NULL,NULL,NULL,NULL
+"134","439",NULL,"Congratulations are in order. It's great to be working with you on these","3","6","0","Commented","Post","2019-08-27 13:31:32","2019-08-27 13:31:32","439","6","CEO -- Story so Far","I will use Lucid as my diary on my new appointment as CEO of HNG Tech (HNG Internship and Start.ng), i already have a lot to say... but it might be too soon... so, i'll wait a bit longer. Follow me to get the story as it drops!",NULL,"ceo-story-so-far-bc5","2019-08-26 21:38:36","2019-08-28 11:30:20",NULL,NULL,NULL,NULL
+"194","983",NULL,NULL,"4","2","1","Like","Reaction","2019-09-07 15:30:15","2019-09-07 15:44:55","983","2","A CHINESE VILLAGER WHO SELLS MORE SOFTWARE DAILY THAN YOU DO","<p>I was alone in the center of a small Chinese town, the weakly glowing streetlights hardly illuminating the streets. The silence was heavy and absolute. It was different from the eternal light and sound of Shenzhen, and the high elevation gave the air an unusual taste. Things were not the same up here in the mountains, and this strangeness seemed a bit menacing. The roads had been tarred, courtesy of the rich central government who gave special attention to the Chinese minorities, but the villages up here in the mountains of Yunnan province did not have many cars to wear down the roads. So they felt incomplete, and leaves lay about, their crushing beneath my feet giving my walk a strange soundtrack.</p>
+<p>A group of men sat in a doorway smoking tobacco from a big bong, watching me walk past with impassive faces. I hurried a bit. What I was looking for was near, I knew. I turned a corner into a small side street, and saw it – the red and blue glow of the humming fluorescent lights, the pictures of the scantily clad lady with big breasts. I had found the local internet cafe.</p>
+<p>I walked in through the narrow doorway, squeezing past a young teenage couple holding hands and staring out of the door. The guy had a scar across his forehead, I wondered idly what their story was, it may have been an amazing love story, it could have been endlessly tragic, perhaps they were completely boring. I’ll never know, because I walked into that room and was hit by the combined glow of hundreds of computer screens, different figures danced across many screens in some dance dance revolution clone, colourful websites reflected off the eyes of engrossed guys, smoking men scrolled through the news, cliques of teens starred together at a screen and shouted and laughed. The room was huge and it was filled with people surfing the internet and playing games. The internet cafe, long thought to be dead, had simply retreated here into the mountains, and it fed the local population with all the entertainment they could not afford to have at home.</p>
+<p>After the necessary registration with my passport at the counter, I bought an entire night of internet surfing, starting off by checking what was new at techcrunch. I went through the usual schedule of websites I read, skipping only facebook and twitter, as they don’t work here.</p>
+<p>Being the only foreigner in there, I was getting a lot of looks, giggles and yelled out “HELLOs” from the kids around. I expected them to come talk to me at some point, so when someone tapped my shoulder, I was suprised that rather than some spiky haired teenager, it was a somewhat middle-aged smiling man with a cigarette dangling from his lip. He introduced himself with the sentence: “TechCrunch is my favorite website, too”. His english was heavily accented, but good.</p>
+<p>I simply looked up at him, unsure what to reply. I didn’t need to say anything, because he started talking to me about the last few articles he had read on TechCrunch. I got only a few sentences in, mostly in agreement with his somewhat unusual but pretty insightful opinions about what they wrote. He spoke as if he had never spoken to anyone about TechCrunch, and needed to get all his thoughts out.</p>
+<p>After 30 minutes of mostly listening, he invited me out to have a drink with him and his friends. He excitedly made phone calls in the local dialect and we went out. We walked over to some local food place, and sat outside on plastic chairs, several beers quickly appearing on the table. Soon, several of his friends popped in a shinily new BYD car, and they joined me.</p>
+<p>He told me what he does: he sells software. And he sells a lot of software. Every month, he makes more than $5000, which is more than 50 times the average salary where he lives. He told me how he does it, and it’s a bit unusual.</p>
+<p>He had learnt how to program from a friend of his. They had both moved to Kunming and started working, but when his dad got sick, he had to go home and farm to keep the family alive. His dad was sick for close to a year, and they needed money. Unable to travel, he had started looking for jobs on Odesk, Rentacoder and such sites based on recommendation from his friend. After writing some software for a client, he noticed something important:</p>
+<p><em>If he simply looked at the list of software projects available for jobs, he would have ideas on what software to develop.</em></p>
+<p>He did this, and rather than making software for clients, he created his own software products, which he put on the internet. He said that 3 days after he copied a simple idea from the rentacoder list on his website, he was making 2 sales a day. $20 per day, which basically doubled his monthly earnings as a farmer. He continued working on more products and copying more ideas, and soon he had 10 different software that he was selling. Sales were low at the start, but even then for him it was a lot of money.</p>
+<p>He kept doing this, cloning software he found that people wanted by looking at open projects on rentacoder, most of his software being related to video encoding. Additionally, he would take open source software, change the way it looked and sell it online. He said he’d get a few refunds, but most people would purchase it without complaining. He said he tried selling Firefox for a while, but sales were very low due to the free competition.</p>
+<p>At the moment he’s making more than $5,000 a month, and he’s been making it for more than 4 years already. He’s one of the bigger players in the video encoding software market.</p>
+<p>As I left, he dropped me off at the local hotel where my friends were. He shook my hand enthusiastically and said he would email me, but that he had to sleep now, because he had to go to the farm early the next morning. Surprised, I asked him why he still farmed. He shrugged and lifted his palms in that typical smiling manner that the villagers there have. “No why!” he said. “I enjoy farming”.</p>",,"a-chinese-villager-who-sells-more-software-daily-than-you-do-e1d","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"195","983",NULL,NULL,"4","2","1","Love","Reaction","2019-09-07 15:30:16","2019-09-07 15:44:55","983","2","A CHINESE VILLAGER WHO SELLS MORE SOFTWARE DAILY THAN YOU DO","<p>I was alone in the center of a small Chinese town, the weakly glowing streetlights hardly illuminating the streets. The silence was heavy and absolute. It was different from the eternal light and sound of Shenzhen, and the high elevation gave the air an unusual taste. Things were not the same up here in the mountains, and this strangeness seemed a bit menacing. The roads had been tarred, courtesy of the rich central government who gave special attention to the Chinese minorities, but the villages up here in the mountains of Yunnan province did not have many cars to wear down the roads. So they felt incomplete, and leaves lay about, their crushing beneath my feet giving my walk a strange soundtrack.</p>
+<p>A group of men sat in a doorway smoking tobacco from a big bong, watching me walk past with impassive faces. I hurried a bit. What I was looking for was near, I knew. I turned a corner into a small side street, and saw it – the red and blue glow of the humming fluorescent lights, the pictures of the scantily clad lady with big breasts. I had found the local internet cafe.</p>
+<p>I walked in through the narrow doorway, squeezing past a young teenage couple holding hands and staring out of the door. The guy had a scar across his forehead, I wondered idly what their story was, it may have been an amazing love story, it could have been endlessly tragic, perhaps they were completely boring. I’ll never know, because I walked into that room and was hit by the combined glow of hundreds of computer screens, different figures danced across many screens in some dance dance revolution clone, colourful websites reflected off the eyes of engrossed guys, smoking men scrolled through the news, cliques of teens starred together at a screen and shouted and laughed. The room was huge and it was filled with people surfing the internet and playing games. The internet cafe, long thought to be dead, had simply retreated here into the mountains, and it fed the local population with all the entertainment they could not afford to have at home.</p>
+<p>After the necessary registration with my passport at the counter, I bought an entire night of internet surfing, starting off by checking what was new at techcrunch. I went through the usual schedule of websites I read, skipping only facebook and twitter, as they don’t work here.</p>
+<p>Being the only foreigner in there, I was getting a lot of looks, giggles and yelled out “HELLOs” from the kids around. I expected them to come talk to me at some point, so when someone tapped my shoulder, I was suprised that rather than some spiky haired teenager, it was a somewhat middle-aged smiling man with a cigarette dangling from his lip. He introduced himself with the sentence: “TechCrunch is my favorite website, too”. His english was heavily accented, but good.</p>
+<p>I simply looked up at him, unsure what to reply. I didn’t need to say anything, because he started talking to me about the last few articles he had read on TechCrunch. I got only a few sentences in, mostly in agreement with his somewhat unusual but pretty insightful opinions about what they wrote. He spoke as if he had never spoken to anyone about TechCrunch, and needed to get all his thoughts out.</p>
+<p>After 30 minutes of mostly listening, he invited me out to have a drink with him and his friends. He excitedly made phone calls in the local dialect and we went out. We walked over to some local food place, and sat outside on plastic chairs, several beers quickly appearing on the table. Soon, several of his friends popped in a shinily new BYD car, and they joined me.</p>
+<p>He told me what he does: he sells software. And he sells a lot of software. Every month, he makes more than $5000, which is more than 50 times the average salary where he lives. He told me how he does it, and it’s a bit unusual.</p>
+<p>He had learnt how to program from a friend of his. They had both moved to Kunming and started working, but when his dad got sick, he had to go home and farm to keep the family alive. His dad was sick for close to a year, and they needed money. Unable to travel, he had started looking for jobs on Odesk, Rentacoder and such sites based on recommendation from his friend. After writing some software for a client, he noticed something important:</p>
+<p><em>If he simply looked at the list of software projects available for jobs, he would have ideas on what software to develop.</em></p>
+<p>He did this, and rather than making software for clients, he created his own software products, which he put on the internet. He said that 3 days after he copied a simple idea from the rentacoder list on his website, he was making 2 sales a day. $20 per day, which basically doubled his monthly earnings as a farmer. He continued working on more products and copying more ideas, and soon he had 10 different software that he was selling. Sales were low at the start, but even then for him it was a lot of money.</p>
+<p>He kept doing this, cloning software he found that people wanted by looking at open projects on rentacoder, most of his software being related to video encoding. Additionally, he would take open source software, change the way it looked and sell it online. He said he’d get a few refunds, but most people would purchase it without complaining. He said he tried selling Firefox for a while, but sales were very low due to the free competition.</p>
+<p>At the moment he’s making more than $5,000 a month, and he’s been making it for more than 4 years already. He’s one of the bigger players in the video encoding software market.</p>
+<p>As I left, he dropped me off at the local hotel where my friends were. He shook my hand enthusiastically and said he would email me, but that he had to sleep now, because he had to go to the farm early the next morning. Surprised, I asked him why he still farmed. He shrugged and lifted his palms in that typical smiling manner that the villagers there have. “No why!” he said. “I enjoy farming”.</p>",,"a-chinese-villager-who-sells-more-software-daily-than-you-do-e1d","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"150","985",NULL,NULL,"4","2","1","Love","Reaction","2019-08-30 11:27:08","2019-08-31 19:01:30","985","2","DON'T ASK WHY YOU WERE REJECTED","<p>I’ve noticed something that is not immediately obvious - rejections without explanations can be supremely helpful.</p>
+<p>Imagine you are applying for a job, or for funding for a project of yours. You are confident going in – everything seems to be in place, and you are sure you will get accepted. But then you get rejected. The first question you will ask is : why? You want to know from the person exactly why you were unsuitable.</p>
+<p>If the other party, however, does not give any reasons why you were rejected, this can be valuable to you. When people get rejected, they tend to reevaluate their initial concept under very critical eyes. What seemed perfect going in now seems riddled with flaws that could have been responsible for the rejection. The scales fall of their project and they can see it clearly. They fall out of love, and suddenly the lines on their lovers face are visible, and the once charming idiosyncrasies have become ugly flaws.</p>
+<p>Being rejected without explanation allows people re-see their project and potentially abandon it or change it into something better. Being rejected with explanations gives them false hope – they focus then on only that small flaw that was pointed out to them and think fixing it would solve the problem.</p>
+<p>But often, the explanation given is diplomatic and designed not to burn bridges, it’s not actual helpful advice that one can work on. So a rejection <em>with</em> reason can unnecessarily extend a project that should rightfully be dead. Or it could cause an over-focus on this one area, and all of the other flaws that were not listed in the reason (like personality flaws), go completely unworked on.</p>
+<p>Getting rejected without reason is the best type of rejection, because it forces you to improve all aspects of your project. For a while, it allows you think and actually understand the problem. That’s because you’ll discover the problem by yourself.</p>",,"dont-ask-why-you-were-rejected-490","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"151","985",NULL,NULL,"1","2","1","Love","Reaction","2019-08-30 11:29:21","2019-08-31 19:01:30","985","2","DON'T ASK WHY YOU WERE REJECTED","<p>I’ve noticed something that is not immediately obvious - rejections without explanations can be supremely helpful.</p>
+<p>Imagine you are applying for a job, or for funding for a project of yours. You are confident going in – everything seems to be in place, and you are sure you will get accepted. But then you get rejected. The first question you will ask is : why? You want to know from the person exactly why you were unsuitable.</p>
+<p>If the other party, however, does not give any reasons why you were rejected, this can be valuable to you. When people get rejected, they tend to reevaluate their initial concept under very critical eyes. What seemed perfect going in now seems riddled with flaws that could have been responsible for the rejection. The scales fall of their project and they can see it clearly. They fall out of love, and suddenly the lines on their lovers face are visible, and the once charming idiosyncrasies have become ugly flaws.</p>
+<p>Being rejected without explanation allows people re-see their project and potentially abandon it or change it into something better. Being rejected with explanations gives them false hope – they focus then on only that small flaw that was pointed out to them and think fixing it would solve the problem.</p>
+<p>But often, the explanation given is diplomatic and designed not to burn bridges, it’s not actual helpful advice that one can work on. So a rejection <em>with</em> reason can unnecessarily extend a project that should rightfully be dead. Or it could cause an over-focus on this one area, and all of the other flaws that were not listed in the reason (like personality flaws), go completely unworked on.</p>
+<p>Getting rejected without reason is the best type of rejection, because it forces you to improve all aspects of your project. For a while, it allows you think and actually understand the problem. That’s because you’ll discover the problem by yourself.</p>",,"dont-ask-why-you-were-rejected-490","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"197","985",NULL,NULL,"2","2","1","Like","Reaction","2019-09-07 15:30:25","2019-09-07 15:44:55","985","2","DON'T ASK WHY YOU WERE REJECTED","<p>I’ve noticed something that is not immediately obvious - rejections without explanations can be supremely helpful.</p>
+<p>Imagine you are applying for a job, or for funding for a project of yours. You are confident going in – everything seems to be in place, and you are sure you will get accepted. But then you get rejected. The first question you will ask is : why? You want to know from the person exactly why you were unsuitable.</p>
+<p>If the other party, however, does not give any reasons why you were rejected, this can be valuable to you. When people get rejected, they tend to reevaluate their initial concept under very critical eyes. What seemed perfect going in now seems riddled with flaws that could have been responsible for the rejection. The scales fall of their project and they can see it clearly. They fall out of love, and suddenly the lines on their lovers face are visible, and the once charming idiosyncrasies have become ugly flaws.</p>
+<p>Being rejected without explanation allows people re-see their project and potentially abandon it or change it into something better. Being rejected with explanations gives them false hope – they focus then on only that small flaw that was pointed out to them and think fixing it would solve the problem.</p>
+<p>But often, the explanation given is diplomatic and designed not to burn bridges, it’s not actual helpful advice that one can work on. So a rejection <em>with</em> reason can unnecessarily extend a project that should rightfully be dead. Or it could cause an over-focus on this one area, and all of the other flaws that were not listed in the reason (like personality flaws), go completely unworked on.</p>
+<p>Getting rejected without reason is the best type of rejection, because it forces you to improve all aspects of your project. For a while, it allows you think and actually understand the problem. That’s because you’ll discover the problem by yourself.</p>",,"dont-ask-why-you-were-rejected-490","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"198","985",NULL,NULL,"2","2","1","Love","Reaction","2019-09-07 15:30:26","2019-09-07 15:44:55","985","2","DON'T ASK WHY YOU WERE REJECTED","<p>I’ve noticed something that is not immediately obvious - rejections without explanations can be supremely helpful.</p>
+<p>Imagine you are applying for a job, or for funding for a project of yours. You are confident going in – everything seems to be in place, and you are sure you will get accepted. But then you get rejected. The first question you will ask is : why? You want to know from the person exactly why you were unsuitable.</p>
+<p>If the other party, however, does not give any reasons why you were rejected, this can be valuable to you. When people get rejected, they tend to reevaluate their initial concept under very critical eyes. What seemed perfect going in now seems riddled with flaws that could have been responsible for the rejection. The scales fall of their project and they can see it clearly. They fall out of love, and suddenly the lines on their lovers face are visible, and the once charming idiosyncrasies have become ugly flaws.</p>
+<p>Being rejected without explanation allows people re-see their project and potentially abandon it or change it into something better. Being rejected with explanations gives them false hope – they focus then on only that small flaw that was pointed out to them and think fixing it would solve the problem.</p>
+<p>But often, the explanation given is diplomatic and designed not to burn bridges, it’s not actual helpful advice that one can work on. So a rejection <em>with</em> reason can unnecessarily extend a project that should rightfully be dead. Or it could cause an over-focus on this one area, and all of the other flaws that were not listed in the reason (like personality flaws), go completely unworked on.</p>
+<p>Getting rejected without reason is the best type of rejection, because it forces you to improve all aspects of your project. For a while, it allows you think and actually understand the problem. That’s because you’ll discover the problem by yourself.</p>",,"dont-ask-why-you-were-rejected-490","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"148","986",NULL,NULL,"4","2","1","Like","Reaction","2019-08-30 11:26:54","2019-08-31 19:01:30","986","2","THE SUNFLOWER","<p>A field of sunflowers sat beside another field covered with grass. Perhaps long ago that grass field was a pasture for animals, but now there was nothing there except an old tractor in the corner.</p>
+<p>An unusual gust of wind, going against the direction the wind usually went in that area, lifted a few sunflower seeds from a particularly full sunflower, and dropped them in the grassy field.</p>
+<p>All but one died very quickly, the tangle of the grass preventing them from taking root. One particularly hardy (or perhaps lucky) sunflower seed, however, defied the odds and started to grow.</p>
+<p>On a fine morning, that sunflower bloomed and showed its bright yellow face. As the light hit it, it became aware of where it was. It looked around at all the whispering grass, and knew already, it was different. The belief grew stronger and stronger, till one day, it broke through all the grass and it saw across to the sunflower field.</p>
+<p>What joy it felt in its heart in that moment! It saw all the other sunflowers, yellow and glorious, so different from the grass that had surrounded it. Once in a while, the wind would bring the glorious singing of those sunflowers across, and this lone sunflower rejoiced at those voices, so different from the raspy whispering of the grass around it.</p>
+<p>But it wondered - look how big and glorious those sunflowers are. And I am so small and misshapen. They sing so wonderfully, while my voice is cracked and muted.</p>
+<p>The sunflower grew sadder and sadder by the day, and at some point, thought that that must be the reason he was sent to this grassy field - he did not fit in with the glory of all the other sunflowers. He watched little sunflowers grow big and bloom, while his petals stayed small and stunted.</p>
+<p>Then he figured it out. The reason he was small and stunted was because he was in the grassy field. If he could go over to the other field, then he would be in the soil that was best for sunflowers and he would grow to be as magnificent as they were.</p>
+<p>Being a plant, he was not sure how exactly he could go about moving to another field. So he asked a knot of grass close by - “Hey, do you know how I can go across to the other field?”</p>
+<p>The grassy lump looked at him in silence for a while: “Sunflower, you’ve never spoken to us all this while you have been growing here. We are your neighbours, we’ve lived together all our lives. Why do you want to leave us and go live with the other sunflowers?</p>
+<p>We’ve heard you complain for so long about how small your petals are, and how great the sunflowers over there are doing. You know why your petals are so small and stunted?</p>
+<p>Because, Sunflower, you have turned your head to look to that field! You are a sunflower, look at the sun! All the looking into the other field is what has prevented you from being as magnificent as they are! Just turn to the sun and forget about the other field.”</p>
+<p>The Sunflower, ashamed, saw that the grass was right. And he turned to the sun. In a few days, he bloomed and started growing. Soon, his petals were as big as the grandest from the other field - all the grass had made his soil very fertile.</p>
+<p>A few years later, that grassy field was filled with grand sunflowers - children of that original sunflower - all looking proudly to the sun, growing and singing.</p>
+<p>Till one day, again, another seed floated gently on an unusual gust of wind, into the next grassy field.</p>",,"the-sunflower-9ab","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"149","986",NULL,NULL,"4","2","1","Love","Reaction","2019-08-30 11:27:06","2019-08-31 19:01:30","986","2","THE SUNFLOWER","<p>A field of sunflowers sat beside another field covered with grass. Perhaps long ago that grass field was a pasture for animals, but now there was nothing there except an old tractor in the corner.</p>
+<p>An unusual gust of wind, going against the direction the wind usually went in that area, lifted a few sunflower seeds from a particularly full sunflower, and dropped them in the grassy field.</p>
+<p>All but one died very quickly, the tangle of the grass preventing them from taking root. One particularly hardy (or perhaps lucky) sunflower seed, however, defied the odds and started to grow.</p>
+<p>On a fine morning, that sunflower bloomed and showed its bright yellow face. As the light hit it, it became aware of where it was. It looked around at all the whispering grass, and knew already, it was different. The belief grew stronger and stronger, till one day, it broke through all the grass and it saw across to the sunflower field.</p>
+<p>What joy it felt in its heart in that moment! It saw all the other sunflowers, yellow and glorious, so different from the grass that had surrounded it. Once in a while, the wind would bring the glorious singing of those sunflowers across, and this lone sunflower rejoiced at those voices, so different from the raspy whispering of the grass around it.</p>
+<p>But it wondered - look how big and glorious those sunflowers are. And I am so small and misshapen. They sing so wonderfully, while my voice is cracked and muted.</p>
+<p>The sunflower grew sadder and sadder by the day, and at some point, thought that that must be the reason he was sent to this grassy field - he did not fit in with the glory of all the other sunflowers. He watched little sunflowers grow big and bloom, while his petals stayed small and stunted.</p>
+<p>Then he figured it out. The reason he was small and stunted was because he was in the grassy field. If he could go over to the other field, then he would be in the soil that was best for sunflowers and he would grow to be as magnificent as they were.</p>
+<p>Being a plant, he was not sure how exactly he could go about moving to another field. So he asked a knot of grass close by - “Hey, do you know how I can go across to the other field?”</p>
+<p>The grassy lump looked at him in silence for a while: “Sunflower, you’ve never spoken to us all this while you have been growing here. We are your neighbours, we’ve lived together all our lives. Why do you want to leave us and go live with the other sunflowers?</p>
+<p>We’ve heard you complain for so long about how small your petals are, and how great the sunflowers over there are doing. You know why your petals are so small and stunted?</p>
+<p>Because, Sunflower, you have turned your head to look to that field! You are a sunflower, look at the sun! All the looking into the other field is what has prevented you from being as magnificent as they are! Just turn to the sun and forget about the other field.”</p>
+<p>The Sunflower, ashamed, saw that the grass was right. And he turned to the sun. In a few days, he bloomed and started growing. Soon, his petals were as big as the grandest from the other field - all the grass had made his soil very fertile.</p>
+<p>A few years later, that grassy field was filled with grand sunflowers - children of that original sunflower - all looking proudly to the sun, growing and singing.</p>
+<p>Till one day, again, another seed floated gently on an unusual gust of wind, into the next grassy field.</p>",,"the-sunflower-9ab","2019-08-30 09:16:17","2019-08-30 09:16:17",,NULL,NULL,NULL
+"152","992",NULL,NULL,"2","2","1","Like","Reaction","2019-08-31 13:04:31","2019-08-31 19:01:30","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"158","992",NULL,NULL,"9","2","1","Love","Reaction","2019-08-31 18:56:21","2019-08-31 19:01:30","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"159","992",NULL,NULL,"9","2","1","Love","Reaction","2019-08-31 18:56:22","2019-08-31 19:01:30","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"160","992",NULL,NULL,"9","2","1","Like","Reaction","2019-08-31 18:56:22","2019-08-31 19:01:30","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"161","992",NULL,"Comments just spilled out here, nobody typed","9","2","1","Commented","Post","2019-08-31 18:56:53","2019-08-31 19:01:30","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"162","992",NULL,NULL,"2","2","1","Love","Reaction","2019-08-31 19:02:26","2019-09-02 05:42:11","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"163","992",NULL,"that true","2","2","1","Commented","Post","2019-08-31 19:03:03","2019-09-02 05:42:11","992","2","this is mine","mine",NULL,"this-is-mine-97b","2019-08-31 13:03:21","2019-08-31 13:03:21",NULL,NULL,NULL,NULL
+"171","993",NULL,NULL,"34","2","1","Love","Reaction","2019-09-01 14:33:20","2019-09-02 05:42:11","993","2","Your face PHP script","this is what you see
+
+\~~~php
+
+<?php echo ""Hello World""; ?>
+
+\~~~","Technology","your-face-php-script-a2a","2019-08-31 16:19:35","2019-09-05 15:19:53",NULL,NULL,"draft",NULL
+"172","993",NULL,NULL,"34","2","1","Like","Reaction","2019-09-01 14:33:23","2019-09-02 05:42:11","993","2","Your face PHP script","this is what you see
+
+\~~~php
+
+<?php echo ""Hello World""; ?>
+
+\~~~","Technology","your-face-php-script-a2a","2019-08-31 16:19:35","2019-09-05 15:19:53",NULL,NULL,"draft",NULL
+"183","993",NULL,"Hi","2","2","1","Commented","Post","2019-09-05 13:50:42","2019-09-07 15:44:55","993","2","Your face PHP script","this is what you see
+
+\~~~php
+
+<?php echo ""Hello World""; ?>
+
+\~~~","Technology","your-face-php-script-a2a","2019-08-31 16:19:35","2019-09-05 15:19:53",NULL,NULL,"draft",NULL
+"193","993",NULL,NULL,"4","2","1","Like","Reaction","2019-09-07 15:30:13","2019-09-07 15:44:55","993","2","Your face PHP script","this is what you see
+
+\~~~php
+
+<?php echo ""Hello World""; ?>
+
+\~~~","Technology","your-face-php-script-a2a","2019-08-31 16:19:35","2019-09-05 15:19:53",NULL,NULL,"draft",NULL
+"178","995",NULL,NULL,"3","1","1","Love","Reaction","2019-09-03 03:25:57","2019-09-07 15:44:46","995","1","second","second![](/storage/1/images/img-ga0dlp954u.png)",NULL,"second-5a0","2019-08-31 18:42:20","2019-08-31 18:42:20","1",NULL,NULL,NULL
+"157","996",NULL,NULL,"1","1","1","Like","Reaction","2019-08-31 18:44:12","2019-09-07 15:44:46","996","1","third","third![](/storage/1/images/img-hta9olnjij.png)
+
+  
+
+![](/storage/1/images/img-1lqnbcohze.png)",NULL,"third-fe0","2019-08-31 18:42:42","2019-08-31 18:42:42","1",NULL,NULL,NULL
+"173","996",NULL,NULL,"3","1","1","Like","Reaction","2019-09-01 18:29:55","2019-09-07 15:44:46","996","1","third","third![](/storage/1/images/img-hta9olnjij.png)
+
+  
+
+![](/storage/1/images/img-1lqnbcohze.png)",NULL,"third-fe0","2019-08-31 18:42:42","2019-08-31 18:42:42","1",NULL,NULL,NULL
+"174","996",NULL,NULL,"3","1","1","Love","Reaction","2019-09-01 18:29:57","2019-09-07 15:44:46","996","1","third","third![](/storage/1/images/img-hta9olnjij.png)
+
+  
+
+![](/storage/1/images/img-1lqnbcohze.png)",NULL,"third-fe0","2019-08-31 18:42:42","2019-08-31 18:42:42","1",NULL,NULL,NULL
+"175","998",NULL,NULL,"9","2","1","Like","Reaction","2019-09-02 16:56:51","2019-09-02 17:38:17","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"177","998",NULL,NULL,"3","2","1","Love","Reaction","2019-09-03 03:25:12","2019-09-04 14:29:22","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"179","998",NULL,"i wish there was smthn better","2","2","1","Commented","Post","2019-09-04 14:37:44","2019-09-07 15:44:55","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"181","998",NULL,"Test","3","2","1","Commented","Post","2019-09-05 12:37:26","2019-09-07 15:44:55","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"182","998",NULL,"Another test","3","2","1","Commented","Post","2019-09-05 12:37:34","2019-09-07 15:44:55","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"184","998",NULL,"all set","2","2","1","Commented","Post","2019-09-05 17:16:13","2019-09-07 15:44:55","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"189","998","182","Oya tester","4","3","0","Replied","Post","2019-09-07 10:33:29","2019-09-07 10:33:29","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"216","998",NULL,NULL,"2","2","0","Like","Reaction","2019-09-07 17:33:27","2019-09-07 17:33:27","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"222","998",NULL,NULL,"4","2","0","Love","Reaction","2019-09-07 18:11:41","2019-09-07 18:11:41","998","2","with picture","![](/storage/2/images/img-rw5rbxsjg4.jpeg)",NULL,"with-picture-f36","2019-09-02 10:47:48","2019-09-05 15:19:40","1",NULL,"publish",NULL
+"180","999",NULL,"Good","4","4","1","Commented","Post","2019-09-05 11:24:34","2019-09-05 17:20:09","999","4","TEst","jnlkj
+
+  
+
+![](/storage/4/images/img-ns1daay43o.png)![](/storage/4/images/img-860xa9equ5.png)",NULL,"test-6e2","2019-09-05 11:20:18","2019-09-05 17:19:41","1",NULL,"publish",NULL
+"199","999",NULL,NULL,"1","4","1","Like","Reaction","2019-09-07 15:44:58","2019-09-07 17:48:04","999","4","TEst","jnlkj
+
+  
+
+![](/storage/4/images/img-ns1daay43o.png)![](/storage/4/images/img-860xa9equ5.png)",NULL,"test-6e2","2019-09-05 11:20:18","2019-09-05 17:19:41","1",NULL,"publish",NULL
+"219","999",NULL,NULL,"4","4","1","Like","Reaction","2019-09-07 18:11:26","2019-09-19 13:18:38","999","4","TEst","jnlkj
+
+  
+
+![](/storage/4/images/img-ns1daay43o.png)![](/storage/4/images/img-860xa9equ5.png)",NULL,"test-6e2","2019-09-05 11:20:18","2019-09-05 17:19:41","1",NULL,"publish",NULL
+"190","1002",NULL,"just some funny comment","22","22","0","Commented","Post","2019-09-07 10:43:20","2019-09-07 10:43:20","1002","22","Am ok","let's do this ooooooooooooooo edit and bee fixed",NULL,"am-ok-f10","2019-09-05 11:26:12","2019-09-05 11:26:33",NULL,NULL,"publish",NULL
+"191","1002","190","I just replied you","22","22","0","Replied","Post","2019-09-07 10:43:38","2019-09-07 10:43:38","1002","22","Am ok","let's do this ooooooooooooooo edit and bee fixed",NULL,"am-ok-f10","2019-09-05 11:26:12","2019-09-05 11:26:33",NULL,NULL,"publish",NULL
+"185","1007",NULL,"test","3","3","0","Commented","Post","2019-09-06 19:40:19","2019-09-06 19:40:19","1007","3","My first post","<p>About time I made one.</p>
+<p><strong>Bold</strong> works. <em>Italics</em> too.</p>
+<blockquote>
+<p>Block quotes</p>
+</blockquote>
+<ol>
+<li>Number</li>
+</ol>
+<ul>
+<li>Bullet</li>
+</ul>
+<p>Cool cool</p>",,"my-first-post-10e","2019-09-06 14:39:26","2019-09-06 14:39:26",,NULL,NULL,NULL
+"186","1007",NULL,"testt","3","3","0","Commented","Post","2019-09-06 19:40:24","2019-09-06 19:40:24","1007","3","My first post","<p>About time I made one.</p>
+<p><strong>Bold</strong> works. <em>Italics</em> too.</p>
+<blockquote>
+<p>Block quotes</p>
+</blockquote>
+<ol>
+<li>Number</li>
+</ol>
+<ul>
+<li>Bullet</li>
+</ul>
+<p>Cool cool</p>",,"my-first-post-10e","2019-09-06 14:39:26","2019-09-06 14:39:26",,NULL,NULL,NULL
+"187","1007","186","test","3","3","0","Replied","Post","2019-09-06 19:40:29","2019-09-06 19:40:29","1007","3","My first post","<p>About time I made one.</p>
+<p><strong>Bold</strong> works. <em>Italics</em> too.</p>
+<blockquote>
+<p>Block quotes</p>
+</blockquote>
+<ol>
+<li>Number</li>
+</ol>
+<ul>
+<li>Bullet</li>
+</ul>
+<p>Cool cool</p>",,"my-first-post-10e","2019-09-06 14:39:26","2019-09-06 14:39:26",,NULL,NULL,NULL
+"188","1007","186","testr","3","3","0","Replied","Post","2019-09-06 19:40:38","2019-09-06 19:40:38","1007","3","My first post","<p>About time I made one.</p>
+<p><strong>Bold</strong> works. <em>Italics</em> too.</p>
+<blockquote>
+<p>Block quotes</p>
+</blockquote>
+<ol>
+<li>Number</li>
+</ol>
+<ul>
+<li>Bullet</li>
+</ul>
+<p>Cool cool</p>",,"my-first-post-10e","2019-09-06 14:39:26","2019-09-06 14:39:26",,NULL,NULL,NULL
+"202","1007",NULL,NULL,"3","3","0","Like","Reaction","2019-09-07 15:45:08","2019-09-07 15:45:08","1007","3","My first post","<p>About time I made one.</p>
+<p><strong>Bold</strong> works. <em>Italics</em> too.</p>
+<blockquote>
+<p>Block quotes</p>
+</blockquote>
+<ol>
+<li>Number</li>
+</ol>
+<ul>
+<li>Bullet</li>
+</ul>
+<p>Cool cool</p>",,"my-first-post-10e","2019-09-06 14:39:26","2019-09-06 14:39:26",,NULL,NULL,NULL
